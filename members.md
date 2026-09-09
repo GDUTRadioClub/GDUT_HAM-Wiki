@@ -67,5 +67,5 @@ dateCreated: 2025-11-10T02:19:08.419Z
 |BD7PRC|深圳市嘉湾无线通讯技术有限公司|BA7OGJ|OGJ无线电竞赛基地|
 |BD7PUU|深圳市嘉湾无线通讯技术有限公司|BG7MXX|星海音乐学院|
 |BI3AGE|香港科技大学(广州)|BG7OFD|长安大学|
-|BA4PT|长安大学|BI3/VA3LPZ| |
+|BA3PT|长安大学|BI3/VA3LPZ| |
 
