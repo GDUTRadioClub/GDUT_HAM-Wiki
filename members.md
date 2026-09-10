@@ -41,7 +41,7 @@ dateCreated: 2026-07-18T11:19:27.408Z
 |<img src="https://avatars.githubusercontent.com/u/126630350?v=4" width="50" height="50" align="center" />| |BG7MGS| |大学城| |
 | | |BA7NIU| |大学城| |
 |<img src="https://resize.cdn.otakumode.com/full/shop/product/b07ab40793604fc281da289da2eb86a8.jpg" width="50" height="50" align="center" />|Fumo |BH2XWV| |大学城|材料与能源学院 |
-| | |BG5JJY| |大学城| |
+|<img src="https://avatars.githubusercontent.com/u/218048661?v=4" width="50" height="50" align="center" />|Hpeach728|BG5JJY| |大学城|机电工程学院|
 | |阿空| | |大学城| |
 | | |BG7OES| |大学城| |
 | | |BG7MCC | | | |
