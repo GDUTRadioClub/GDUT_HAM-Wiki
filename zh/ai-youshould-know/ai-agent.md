@@ -2,7 +2,7 @@
 title: AI Agent：智能体
 description: 能规划、调用工具并持续执行的 AI 系统
 published: true
-date: 2026-09-23T16:12:14.678Z
+date: 2026-09-23T16:39:42.797Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-23T16:12:14.678Z
@@ -66,7 +66,7 @@ Agent 的关键不是“会说”，而是“会做”。
 
 ## 延伸阅读
 
-- [Tool Call：工具调用](/en/ai-youshould-know/tool-call)
-- [Skill：AI 技能](/en/ai-youshould-know/skill)
-- [MCP：模型上下文协议](/en/ai-youshould-know/mcp)
-- [AI时代你应该知道的-首页](/en/ai-youshould-know)
+- [Tool Call：工具调用](/zh/ai-youshould-know/tool-call)
+- [Skill：AI 技能](/zh/ai-youshould-know/skill)
+- [MCP：模型上下文协议](/zh/ai-youshould-know/mcp)
+- [AI时代你应该知道的-首页](/zh/ai-youshould-know)
