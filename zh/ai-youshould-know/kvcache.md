@@ -2,7 +2,7 @@
 title: KVCache：键值缓存
 description: LLM 推理加速的核心：KVCache 原理、内存成本与优化方向
 published: true
-date: 2026-09-23T16:10:58.911Z
+date: 2026-09-23T16:39:30.447Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-23T16:10:58.911Z
@@ -77,7 +77,7 @@ PagedAttention 把 KVCache 分成固定大小的块，像操作系统管理内�
 
 ## 和 LLM 推理的关系
 
-KVCache 是 [LLM 推理](/en/ai-youshould-know/llm-inference) 中 Prefill/Decode 两阶段设计的核心产物：
+KVCache 是 [LLM 推理](/zh/ai-youshould-know/llm-inference) 中 Prefill/Decode 两阶段设计的核心产物：
 
 - 没有 KVCache，Decode 会非常慢；
 - 有了 KVCache，显存管理成为新的工程重点；
@@ -87,5 +87,5 @@ KVCache 是 [LLM 推理](/en/ai-youshould-know/llm-inference) 中 Prefill/Decode
 
 ## 延伸阅读
 
-- [LLM 推理：从输入到输出](/en/ai-youshould-know/llm-inference)
-- [AI时代你应该知道的-首页](/en/ai-youshould-know)
+- [LLM 推理：从输入到输出](/zh/ai-youshould-know/llm-inference)
+- [AI时代你应该知道的-首页](/zh/ai-youshould-know)
