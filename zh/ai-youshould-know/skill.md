@@ -2,7 +2,7 @@
 title: Skill：AI 技能
 description: 把提示词、工具调用与领域知识封装成可复用的 AI 能力
 published: true
-date: 2026-09-23T16:11:42.293Z
+date: 2026-09-23T16:39:36.691Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-23T16:11:42.293Z
@@ -94,6 +94,6 @@ Skill
 
 ## 延伸阅读
 
-- [Tool Call：工具调用](/en/ai-youshould-know/tool-call)
-- [MCP：模型上下文协议](/en/ai-youshould-know/mcp)
-- [AI时代你应该知道的-首页](/en/ai-youshould-know)
+- [Tool Call：工具调用](/zh/ai-youshould-know/tool-call)
+- [MCP：模型上下文协议](/zh/ai-youshould-know/mcp)
+- [AI时代你应该知道的-首页](/zh/ai-youshould-know)
