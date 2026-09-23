@@ -2,7 +2,7 @@
 title: AI时代你应该知道的-首页
 description: AI 名词速查与入门索引：KVCache、LLM 推理、MCP、Skill、Tool Call 等
 published: true
-date: 2026-09-23T16:08:44.015Z
+date: 2026-09-23T16:39:28.341Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-23T15:51:58.268Z
@@ -24,14 +24,14 @@ dateCreated: 2026-09-23T15:51:58.268Z
 | **Token** | 模型处理文本的最小单位，可以粗略理解为“词元/字块” | 本文 |
 | **Prompt** | 用户给模型的输入指令或上下文，决定输出方向 | 本文 |
 | **Context Window** | 模型一次能“看见”的最大 Token 数量，超出会被截断或需要压缩 | 本文 |
-| **LLM 推理** | 模型根据输入逐步生成输出的过程，分为 Prefill 与 Decode 两个阶段 | [查看详情](/en/ai-youshould-know/llm-inference) |
-| **KVCache** | 缓存 Attention 中的 Key/Value，避免 Decode 阶段重复计算，显著加速生成 | [查看详情](/en/ai-youshould-know/kvcache) |
-| **MCP** | Model Context Protocol，让模型/Agent 用统一协议连接外部工具与数据源 | [查看详情](/en/ai-youshould-know/mcp) |
-| **Skill** | 可复用的能力包，把提示词、工具调用流程和领域知识封装成“技能” | [查看详情](/en/ai-youshould-know/skill) |
-| **Tool Call** | 模型按约定格式请求调用外部函数/API，并把结果继续用于推理 | [查看详情](/en/ai-youshould-know/tool-call) |
-| **RAG** | 检索增强生成：先查资料，再让模型基于资料回答 | [查看详情](/en/ai-youshould-know/rag) |
-| **AI Agent** | 能感知目标、规划步骤、调用工具并根据反馈持续执行的 AI 系统 | [查看详情](/en/ai-youshould-know/ai-agent) |
-| **Token 与上下文窗口** | Token 与上下文长度的工程影响 | [查看详情](/en/ai-youshould-know/token-and-context) |
+| **LLM 推理** | 模型根据输入逐步生成输出的过程，分为 Prefill 与 Decode 两个阶段 | [查看详情](/zh/ai-youshould-know/llm-inference) |
+| **KVCache** | 缓存 Attention 中的 Key/Value，避免 Decode 阶段重复计算，显著加速生成 | [查看详情](/zh/ai-youshould-know/kvcache) |
+| **MCP** | Model Context Protocol，让模型/Agent 用统一协议连接外部工具与数据源 | [查看详情](/zh/ai-youshould-know/mcp) |
+| **Skill** | 可复用的能力包，把提示词、工具调用流程和领域知识封装成“技能” | [查看详情](/zh/ai-youshould-know/skill) |
+| **Tool Call** | 模型按约定格式请求调用外部函数/API，并把结果继续用于推理 | [查看详情](/zh/ai-youshould-know/tool-call) |
+| **RAG** | 检索增强生成：先查资料，再让模型基于资料回答 | [查看详情](/zh/ai-youshould-know/rag) |
+| **AI Agent** | 能感知目标、规划步骤、调用工具并根据反馈持续执行的 AI 系统 | [查看详情](/zh/ai-youshould-know/ai-agent) |
+| **Token 与上下文窗口** | Token 与上下文长度的工程影响 | [查看详情](/zh/ai-youshould-know/token-and-context) |
 | **Fine-tuning** | 在预训练模型基础上，用特定数据继续训练以适配任务 | 本文 |
 | **LoRA** | 低秩适配，用少量参数完成高效微调 | 本文 |
 | **Quantization** | 量化，把模型权重/激活从高精度压缩到低精度，降低显存与成本 | 本文 |
@@ -153,8 +153,8 @@ RLHF 使用人类偏好数据训练奖励模型，再通过强化学习优化语
 
 ## 🧭 如何阅读这个 Wiki
 
-- 想了解 **模型为什么快/慢**：从 [LLM 推理](/en/ai-youshould-know/llm-inference) 和 [KVCache](/en/ai-youshould-know/kvcache) 开始。
-- 想了解 **Agent 怎么调用外部能力**：从 [Tool Call](/en/ai-youshould-know/tool-call)、[MCP](/en/ai-youshould-know/mcp) 和 [Skill](/en/ai-youshould-know/skill) 开始。
-- 想了解 **企业知识库问答**：重点关注 [RAG](/en/ai-youshould-know/rag)、Embedding、Memory 和 Evaluation。
+- 想了解 **模型为什么快/慢**：从 [LLM 推理](/zh/ai-youshould-know/llm-inference) 和 [KVCache](/zh/ai-youshould-know/kvcache) 开始。
+- 想了解 **Agent 怎么调用外部能力**：从 [Tool Call](/zh/ai-youshould-know/tool-call)、[MCP](/zh/ai-youshould-know/mcp) 和 [Skill](/zh/ai-youshould-know/skill) 开始。
+- 想了解 **企业知识库问答**：重点关注 [RAG](/zh/ai-youshould-know/rag)、Embedding、Memory 和 Evaluation。
 
 > 📌 本页会持续更新。欢迎补充你遇到的 AI 新名词、使用经验和踩坑记录。
