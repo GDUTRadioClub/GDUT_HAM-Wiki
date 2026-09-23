@@ -2,7 +2,7 @@
 title: 厂工老登速成指南
 description: 学长学姐们的生活智慧结晶
 published: true
-date: 2026-09-09T15:48:33.044Z
+date: 2026-09-23T16:39:26.377Z
 tags: 生活指南
 editor: markdown
 dateCreated: 2026-07-18T11:19:29.791Z
@@ -96,7 +96,7 @@ KFC、茶百道等同理
 
 ### 西区丰巢/快宝点
 ![东区菜鸟驿站](https://restapi.amap.com/v3/staticmap?location=113.3886,23.0428&zoom=17&scale=2&size=750*300&markers=mid,,A:113.3886,23.0428&key=fd662ff89d9de222c22af0fc2a8922fb)
-## [宿舍好物](/en/Knowledge_living-in-GDUT/宿舍好物)
+## [宿舍好物](/zh/Knowledge_living-in-GDUT/宿舍好物)
 窗帘是必备的，广东夏天的蚊子有你好受的，但是注意透气和通风，不然很闷
 床下帘也可以安装，如果你是i人或者注重隐私的话
 ## 就医指南
