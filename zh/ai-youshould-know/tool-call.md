@@ -2,7 +2,7 @@
 title: Tool Call：工具调用
 description: 模型如何通过结构化请求调用外部函数、API 与业务系统
 published: true
-date: 2026-09-23T16:11:56.743Z
+date: 2026-09-23T16:39:38.851Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-23T16:11:56.743Z
@@ -117,6 +117,6 @@ Tool Call（也叫 Function Calling）提供了一种结构化方式，让模型
 
 ## 延伸阅读
 
-- [MCP：模型上下文协议](/en/ai-youshould-know/mcp)
-- [Skill：AI 技能](/en/ai-youshould-know/skill)
-- [AI时代你应该知道的-首页](/en/ai-youshould-know)
+- [MCP：模型上下文协议](/zh/ai-youshould-know/mcp)
+- [Skill：AI 技能](/zh/ai-youshould-know/skill)
+- [AI时代你应该知道的-首页](/zh/ai-youshould-know)
