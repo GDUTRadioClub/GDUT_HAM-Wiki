@@ -2,7 +2,7 @@
 title: LLM 推理：从输入到输出
 description: Prefill、Decode、采样策略与推理优化
 published: true
-date: 2026-09-23T16:11:24.346Z
+date: 2026-09-23T16:39:32.742Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-23T16:11:24.346Z
@@ -38,7 +38,7 @@ dateCreated: 2026-09-23T16:11:24.346Z
 特点：
 - 计算密集；
 - 可并行处理；
-- 会建立 [KVCache](/en/ai-youshould-know/kvcache)；
+- 会建立 [KVCache](/zh/ai-youshould-know/kvcache)；
 - 直接影响首 Token 延迟。
 
 ### 2. Decode（解码）
@@ -92,5 +92,5 @@ dateCreated: 2026-09-23T16:11:24.346Z
 
 ## 延伸阅读
 
-- [KVCache：键值缓存](/en/ai-youshould-know/kvcache)
-- [AI时代你应该知道的-首页](/en/ai-youshould-know)
+- [KVCache：键值缓存](/zh/ai-youshould-know/kvcache)
+- [AI时代你应该知道的-首页](/zh/ai-youshould-know)
