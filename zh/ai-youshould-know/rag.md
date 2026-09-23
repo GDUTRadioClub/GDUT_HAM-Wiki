@@ -2,7 +2,7 @@
 title: RAG：检索增强生成
 description: 先检索、再生成：企业知识库问答的核心模式
 published: true
-date: 2026-09-23T16:12:05.692Z
+date: 2026-09-23T16:39:40.773Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-23T16:12:05.692Z
@@ -63,5 +63,5 @@ LLM 基于资料生成回答
 
 ## 延伸阅读
 
-- [LLM 推理：从输入到输出](/en/ai-youshould-know/llm-inference)
-- [AI时代你应该知道的-首页](/en/ai-youshould-know)
+- [LLM 推理：从输入到输出](/zh/ai-youshould-know/llm-inference)
+- [AI时代你应该知道的-首页](/zh/ai-youshould-know)
