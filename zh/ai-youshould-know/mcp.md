@@ -2,7 +2,7 @@
 title: MCP：模型上下文协议
 description: 用统一协议连接模型、Agent 与外部工具和数据源
 published: true
-date: 2026-09-23T16:11:33.334Z
+date: 2026-09-23T16:39:34.737Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-23T16:11:33.334Z
@@ -95,6 +95,6 @@ MCP 让 AI 获得真实世界操作能力，因此必须关注：
 
 ## 延伸阅读
 
-- [Tool Call：工具调用](/en/ai-youshould-know/tool-call)
-- [Skill：AI 技能](/en/ai-youshould-know/skill)
-- [AI时代你应该知道的-首页](/en/ai-youshould-know)
+- [Tool Call：工具调用](/zh/ai-youshould-know/tool-call)
+- [Skill：AI 技能](/zh/ai-youshould-know/skill)
+- [AI时代你应该知道的-首页](/zh/ai-youshould-know)
