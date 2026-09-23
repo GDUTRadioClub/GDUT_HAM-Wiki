@@ -2,7 +2,7 @@
 title: Token 与上下文窗口
 description: 模型处理文本的最小单位与上下文长度限制
 published: true
-date: 2026-09-23T16:12:23.660Z
+date: 2026-09-23T16:39:45.139Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-23T16:12:23.660Z
@@ -59,6 +59,6 @@ Token 数量影响：
 
 ## 延伸阅读
 
-- [KVCache：键值缓存](/en/ai-youshould-know/kvcache)
-- [LLM 推理：从输入到输出](/en/ai-youshould-know/llm-inference)
-- [AI时代你应该知道的-首页](/en/ai-youshould-know)
+- [KVCache：键值缓存](/zh/ai-youshould-know/kvcache)
+- [LLM 推理：从输入到输出](/zh/ai-youshould-know/llm-inference)
+- [AI时代你应该知道的-首页](/zh/ai-youshould-know)
