@@ -2,10 +2,10 @@
 title: Wiki贡献指南
 description: 
 published: true
-date: 2025-11-27T16:55:43.695Z
+date: 2026-09-28T14:35:10.736Z
 tags: 
 editor: markdown
-dateCreated: 2025-11-11T09:27:31.780Z
+dateCreated: 2026-07-18T11:20:00.480Z
 ---
 
 # 📘 Wiki 简介
@@ -35,7 +35,7 @@ Wiki 一词源于夏威夷语 *“wiki wiki”*，意为 **“快速”**。
 
 | 项目 | 信息 |
 |------|------|
-| 🖥️ 站点域名 | `gdutham.bi7khi.xyz`（临时） |
+| 🖥️ 站点域名 | `argdut.bi7khi.xyz`（临时） |
 | 📍 服务器位置 | 上海 腾讯云 LightHouse 轻量云 |
 | 🛠️ 技术结构 | Wiki.js + Git 版本管理 |
 
