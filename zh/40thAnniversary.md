@@ -15,3 +15,8 @@ dateCreated: 2025-12-03T11:34:45.948Z
 你真的觉得我们搞得起来什么东西吗）
 
 ![kaltsit.jpg](/kaltsit.jpg)
+
+# 广东工业大学无线电社41周年啦
+> **1985-2026** GDUT Radio Club **41th Anniversary**
+
+你觉得41周年就能搞起来东西吗（          
