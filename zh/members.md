@@ -45,6 +45,7 @@ dateCreated: 2026-07-18T11:19:27.408Z
 | |阿空| | |大学城| |
 | | |BG7OES| |大学城| |
 | | |BG7MCC | | | |
+|<img src="https://avatars.githubusercontent.com/u/325494745?v=4&size=64" width="50" height="50" align="center" /> |寻风隐 |BH7IBD |https://github.com/fwind-hidden |大学城 |机电工程学院 |
 
 
 # 社团群聊结构
